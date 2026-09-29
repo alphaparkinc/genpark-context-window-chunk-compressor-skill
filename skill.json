@@ -1,0 +1,20 @@
+{
+  "name": "genpark-context-window-chunk-compressor-skill",
+  "version": "1.0.0",
+  "description": "Context window token compressor with semantic sentence saliency scoring and chunk compaction",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "context-compression",
+    "token-pruning",
+    "prompt-compaction",
+    "agentic-rag",
+    "context-engineering",
+    "python-standard-library",
+    "agent-skills",
+    "saliency-scoring",
+    "llm-efficiency",
+    "information-retrieval"
+  ]
+}
