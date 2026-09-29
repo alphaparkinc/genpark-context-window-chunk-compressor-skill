@@ -1,0 +1,6 @@
+name: genpark-context-window-chunk-compressor-skill
+version: 1.0.0
+description: Context window token compressor with semantic sentence saliency scoring and chunk compaction
+command: python
+args:
+  - mcp_server.py
